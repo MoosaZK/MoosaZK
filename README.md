@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoosaZK
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Operating Systems
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on C\C++\Python\Web Projects
 - 📫 How to reach me Email: moosazkhan@gmail.com
 - Portfolio: https://moosazk.github.io/Portfolio/

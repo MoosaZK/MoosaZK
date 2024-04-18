@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moosa Zafar Khan
 ========================================================================================================================================
 
-Software Engineer
+Software Developer
 -----------------
 
-Hey there! Looking to elevate your digital projects? I'm a seasoned full-stack developer ready to bring value to your endeavors. Whether you're diving into Flutter, React.js, TensorFlow, Python, or C++, I'm here to help you navigate the intricacies and turn your ideas into robust solutions. Imagine having a dedicated collaborator who not only crafts code but also understands the importance of meticulous planning and problem-solving. My approach is centered around creating solutions from concept to reality, addressing real-world challenges with precision. Let's work together to innovate and build something impactful. Whether you're a fellow developer seeking insights or someone with a specific project in mind, I'm here to make the process smoother and more rewarding for you. Let's shape the digital landscape together—one project at a time!
+Hey there! Looking to elevate your digital projects? I'm a seasoned full-stack developer ready to bring value to your endeavors. Currently, I specialize in creating web projects using the latest technologies such as Next.js, Tailwind CSS, Nest.js, and MongoDB. Whether you're diving into Flutter, React.js, TensorFlow, Python, or C++, I'm here to help you navigate the intricacies and turn your ideas into robust solutions. Imagine having a dedicated collaborator who not only crafts code but also understands the importance of meticulous planning and problem-solving. My approach is centered around creating solutions from concept to reality, addressing real-world challenges with precision. Let's work together to innovate and build something impactful. Whether you're a fellow developer seeking insights or someone with a specific project in mind, I'm here to make the process smoother and more rewarding for you. Let's shape the digital landscape together—one project at a time!
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [moosazkhan@gmail.com](mailto:moosazkhan@gmail.com)
